@@ -1,2 +1,1 @@
-# newRepo
-This is my newRepo
+Amazon Clone
